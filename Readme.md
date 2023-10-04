@@ -8,5 +8,7 @@ i am 19 years old and trying to be an indie developer
 <br>
 
 ![giphy (1)](https://user-images.githubusercontent.com/62521215/211249297-7dc970fa-65fd-4de4-a165-eb555aa0756f.gif)
-</div>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=japsadev&theme=highcontrast)](https://git.io/streak-stats)
+</div>
