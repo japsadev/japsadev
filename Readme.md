@@ -3,7 +3,7 @@
   <h1 align="center">
   hi everyone, i am japsa
 </h1> 
-i am 19 years old and trying to be an indie developer
+19 y.o. | indie hacker @KamiSoftware
 <br>
 <br>
 
