@@ -3,7 +3,7 @@
   <h1 align="center">
   hi everyone, i am japsa
 </h1> 
-19 y.o. | indie hacker [KamiSoftware](https://github.com/Kami-Software)
+19 y.o. | indie hacker @KamiSoftware
 <br>
 <br>
 
@@ -12,5 +12,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=japsadev&theme=highcontrast)](https://git.io/streak-stats)
 </div>
-
-https://github.com/Kami-Software
