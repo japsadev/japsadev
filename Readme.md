@@ -8,4 +8,8 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=japsadev&theme=highcontrast)](https://git.io/streak-stats)
+
+
+#### Visitors
+![:japsadev](https://count.getloli.com/get/@:japsadev?theme=rule34)
 </div>
